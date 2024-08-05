@@ -9,7 +9,7 @@ import ru.fsdstudio.patternsoffcoding.structuralPatterns.abstractFactory.factory
 public class NivaClient {
     /**
      * This method represents the main entry point of the NivaClient class.
-     * It creates a new instance of NivaTeamFactory and uses it to create, build, and sell an Niva car.
+     * It creates a new instance of NivaTeamFactory and uses it to create, build, and sell a Niva car.
      */
     public static void main(String[] args) {
         // Create a new instance of NivaTeamFactory
