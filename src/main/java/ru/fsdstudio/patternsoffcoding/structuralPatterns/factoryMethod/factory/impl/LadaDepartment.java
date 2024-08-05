@@ -3,6 +3,6 @@ package ru.fsdstudio.patternsoffcoding.structuralPatterns.factoryMethod.factory.
 public class LadaDepartment extends CarFactory {
     @Override
     public String createCar() {
-        return "Lada" + super.createCar();
+        return "Лада" + super.createCar();
     }
 }
